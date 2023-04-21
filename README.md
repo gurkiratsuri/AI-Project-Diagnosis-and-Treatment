@@ -102,7 +102,7 @@ don't forget to transfer the umls.db, e.g.
 
 ### Acknowledgements
 **THIS PROJEECT REPOSITORY IS A CLONE OF THE ORIGINAL** - https://github.com/leanderme/sytora
-**I HAVE USED THIS ONLY AS REFERENCE TO MY AI PROJECT AND NONE OF THE ABOVE MENTIONED WORK HAS BEEN DONE BY MYSELF**
+**I HAVE USED THIS ONLY AS REFERENCE TO MY AI PROJECT AND NONE OF THE ABOVE MENTIONED WORK HAS BEEN DONE BY ME.**
 
 This project is **heavily** inspired by:
 - https://github.com/Aniruddha-Tapas/Predicting-Diseases-From-Symptoms
