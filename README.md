@@ -99,12 +99,11 @@ don't forget to transfer the umls.db, e.g.
 
 
 
-### Coding quality, security & stability
-This project was written *very* quickly with no performance or stability features in mind; the code base suffered accordingly. Expect things to be cleaned up soon though.
-
-Please note that I'm a machine learning hobbyist and a medical student. The code may not in accordance with common conventions. 
 
 ### Acknowledgements
+**THIS PROJEECT REPOSITORY IS A CLONE OF THE ORIGINAL** - https://github.com/leanderme/sytora
+**I HAVE USED THIS ONLY AS REFERENCE TO MY AI PROJECT AND NONE OF THE ABOVE MENTIONED WORK HAS BEEN DONE BY MYSELF**
+
 This project is **heavily** inspired by:
 - https://github.com/Aniruddha-Tapas/Predicting-Diseases-From-Symptoms
 - https://github.com/sekharvth/symptom-disease
